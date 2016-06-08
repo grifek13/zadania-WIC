@@ -1,0 +1,7 @@
+1) Wejśćie: 
+	1 <= n <= 1000 
+	w kolejnych n weirszach otrzymujemy n liczb a ( 1 <= a <= 10^6 ) oddzielonych sapacjami, jest to wysokość obszaru w kaształcie kwadratu o powierzchni 1 km^2
+	1 <= q <= 1000000
+	w kolejnych q wierszach otrzymujemy q zapytań w postaci liczb x, y ( 1 <= x, y <= n ), są to współrzędne opadów deszu
+2) Wyjście:
+	q wierszy zawierające odpowiedzi jaka objętość mapy została zalana
