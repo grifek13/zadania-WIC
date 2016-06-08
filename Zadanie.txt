@@ -1,8 +1,5 @@
 Zadanie POTOP
-    Krecik to najlepszy prezenter pogody w Bitocji. Niestety z powodu gigantycznych upałów nad bitockim niebem zawitał groźny
-    front burzowy. Już wiadomo, że opady będą niespotykanie duże. Z tego powodu ogłoszono satn alarmowy. Krecik ma za zadanie
-    ogłosić które tereny są bezpieczne, daltego poprosił ciebie o pomoc. Jako młody i obiecujący programista musisz mu powiedzieć
-    mu jaka powierzchnia Bitocji w zależności od czasu znajdziesię pod wodą i jaka będzie objętość opadów.
+    Krecik to najlepszy prezenter pogody w Bitocji. Niestety z powodu gigantycznych upałów nad bitockim niebem zawitał groźny front burzowy. Już wiadomo, że opady będą niespotykanie duże. Z tego powodu ogłoszono satn alarmowy. Krecik ma za zadanie ogłosić które tereny są bezpieczne, daltego poprosił ciebie o pomoc. Jako młody i obiecujący programista musisz mu powiedzieć mu jaka powierzchnia Bitocji w zależności od czasu znajdziesię pod wodą i jaka będzie objętość opadów.
 
 1) Wejśćie: 
     Krecik dysponuje profesjonalnymi danymi którymi może się z tobą podzielić. Są to mapa Bitocji rozmiarów n x n (1 <= n <= 1000). Jej rozmiar otrzymasz w pierwszym wierszu wejścia. W kolejnych n wierszach otrzymujemy n liczb a ( 1 <= a <= 10^6 ) oddzielonych sapacjami, jest to opis mapy, wysokość obszaru w kaształcie kwadratu o powierzchni 1 km^2. W następnym wierszu znajduje się liczba spodziewanych burz q (1 <= q <= 1000000). W kolejnych wierszach otrzymujemy listę q chronologicznych zapytań w postaci liczb x, y ( 1 <= x, y <= n ), są to współrzędne opadów deszu. 
